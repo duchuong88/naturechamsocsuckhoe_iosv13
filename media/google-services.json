@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "558165651062",
+    "firebase_url": "https://nature-ha-nam-default-rtdb.firebaseio.com",
+    "project_id": "nature-ha-nam",
+    "storage_bucket": "nature-ha-nam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558165651062:android:f8e6e677a0367c02c47957",
+        "android_client_info": {
+          "package_name": "nature.ezspa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVEOFGiN2zNy2XrbwUSrN31mb_3c-dfd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
